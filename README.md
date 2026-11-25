@@ -4,7 +4,7 @@
 
 This repository documents a full black-box penetration test against a training target, **Mediroza General Hospital** (`medirozahospital.com`). The engagement covered all four phases of a real pentest: initial access, data extraction, critical exposure discovery, and professional reporting.
 
-> ⚠️ **Disclaimer:** Mediroza General Hospital is a fictional training target for this exercise. All testing was performed under written authorization, strictly within the agreed scope, for educational purposes only. Exploit payloads and recovered confidential data are intentionally omitted from this repository; the full technical report was submitted to the instructor.
+> ⚠️ **Disclaimer:** All testing was performed under written authorization, strictly within the agreed scope, for educational purposes only. Exploit payloads and recovered confidential data are intentionally omitted from this repository; the full technical report was submitted to the instructor.
 
 ---
 
